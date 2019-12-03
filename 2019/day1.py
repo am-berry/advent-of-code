@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#/usr/bin/env python3
 
 def mass_calculator(x):
   calc = x // 3

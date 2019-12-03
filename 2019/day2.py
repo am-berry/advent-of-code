@@ -1,4 +1,4 @@
-#!/usr/bin/env python 
+#!/usr/bin/env python3 
 
 def program_alarm(intcode, noun, verb):
   curr_ptr = 0
